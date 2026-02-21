@@ -49,6 +49,7 @@ The application uses Google's MediaPipe framework for hand tracking. It detects 
 -   **Index + Middle finger up**: Navigation mode (Selection).
 -   **Open hand**: Erasing mode.
 
+
 The drawing is performed on a separate transparent canvas layer and then merged with the webcam feed using OpenCV.
 
 ## Dependencies
